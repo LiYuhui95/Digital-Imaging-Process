@@ -1,3 +1,3 @@
 # Digital-Imaging-Process
 learning digital image processing, codes are written in matlab
-the reports are written in Chinese.
+and the reports are written in Chinese.
